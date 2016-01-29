@@ -1,5 +1,5 @@
 # Call of the Wild and White Fang
-A back cover of the book "Call of the Wild and White Fang" by Jack London
+HTML and CSS implementation of back cover of the book "Call of the Wild and White Fang" by Jack London
 
 Check it out [here]
 
